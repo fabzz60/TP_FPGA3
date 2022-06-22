@@ -5,7 +5,7 @@ L’objectif de ce TP est de développer sa propre conception électronique pour
 1.1 Objectif :
 Développer des cartes modulaires qui s’adapterons sur un kit FPGA pour contrôler un moteur pas à pas. On utilisera le moteur pas à pas et le programme VHDL étudié l’année précédente qui sera à adapté pour la nouvelle cible FPGA, voir description : TP FPGA 2
 
-![ezcv logo](https://github.com/fabzz60/Cmod-A7-Stopwatch-Demo-10s/blob/main/design_vivado.jpg)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/bloc_design_FPGA3.jpg)
 
 1.2 Outils et logiciels :
 Le composant numérique principal choisi pour cette carte pour piloter le moteur pas à pas est un FPGA de la famille Xilinx l’Artix 7-35T disposé sur un kit Digilent, le kit CMODA7 35T. 
