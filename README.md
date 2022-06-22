@@ -4,7 +4,8 @@ L’objectif de ce TP est de développer sa propre conception électronique pour
 
 1.1 Objectif :
 Développer des cartes modulaires qui s’adapterons sur un kit FPGA, la CmodA7 pour contrôler un moteur pas à pas. On utilisera le moteur pas à pas et le programme VHDL étudié l’année précédente qui sera à adapté pour la nouvelle cible FPGA mais avec VIVADO comme environnement de programmation, voir description : TP FPGA 2
-'Un document pdf demarrer avec Vivado est fourni dans les sources'.
+
+**Un document pdf demarrer avec Vivado est fourni dans les sources
 
 ![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/bloc_design_FPGA3.jpg)
 
