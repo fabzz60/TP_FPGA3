@@ -12,4 +12,7 @@ Le composant numérique principal choisi pour cette carte pour piloter le moteur
 https://digilent.com/shop/cmod-a7-35t-breadboardable-artix-7-fpga-module/
 La gamme Xilinx à découvrir :
 https://www.xilinx.com/products/silicon-devices/fpga.html
-Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO. La carte électronique sera auto-alimentée par l’USB. Enfin on utilisera un Raspberry pi 4 en démonstration pour tester une communication distante (SSH) si le temps le permet.
+Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les circuits à développer sur ALTIUM designer. La carte électronique sera auto-alimentée par l’USB. Enfin on utilisera un Raspberry pi 4 en démonstration pour tester une communication distante (SSH) si le temps le permet.
+
+
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/cartes_a_developper.jpg)
