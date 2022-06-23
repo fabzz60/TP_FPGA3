@@ -22,7 +22,7 @@ Vitesse max du moteur = 255Hz
 
 **Un document pdf demarrer avec Vivado est fourni dans les sources**
 
-![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/bloc_design_FPGA3.jpg)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3_stepper_motor/blob/main/bloc_design_FPGA3.jpg)
 
 1.2 Outils et logiciels :
 Le composant numérique principal choisi pour cette carte pour piloter le moteur pas à pas est un FPGA de la famille Xilinx l’Artix 7-35T disposé sur un kit Digilent, le kit CMODA7 35T. 
@@ -34,8 +34,8 @@ https://www.xilinx.com/products/silicon-devices/fpga.html
 Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les circuits à développer sur ALTIUM designer. La carte électronique sera auto-alimentée par l’USB. Enfin on utilisera un Raspberry pi 4 en démonstration pour tester une communication distante (SSH) si le temps le permet.
 
 
-![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/cartes_a_developper.jpg)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3_stepper_motor/blob/main/cartes_a_developper.jpg)
 
 Courbes de vitesses à appliquer au moteur
 
-![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe_de_vitesse_moteur_pas_a_pas.jpg)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3_stepper_motor/blob/main/courbe_de_vitesse_moteur_pas_a_pas.jpg)
