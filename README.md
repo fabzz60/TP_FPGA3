@@ -36,4 +36,4 @@ Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les 
 
 # Courbes de vitesses à appliquer au moteur
 
-![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe_de_vitesse_moteur_pas_a_pas.png)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe_de_vitesse_moteur_pas_a_pas.jpg)
