@@ -15,7 +15,6 @@ Vitesse max du moteur = 255Hz
   Résistance : 21 ohms 
   Intensité : 25 mA  
   Réduction : 1/64 
-  
   Nombre de pas par tour : 64 (réduction de 4096 en sortie d'axe) 
   Entraxe de fixation : 35 mm 
   Axe : Ø5 mm avec double méplat (épaisseur 3 mm) 
@@ -37,6 +36,6 @@ Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les 
 
 ![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/cartes_a_developper.jpg)
 
-# Courbes de vitesses à appliquer au moteur
+Courbes de vitesses à appliquer au moteur
 
 ![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe_de_vitesse_moteur_pas_a_pas.jpg)
