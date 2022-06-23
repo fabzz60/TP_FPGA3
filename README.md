@@ -1,6 +1,6 @@
 # Moteur pas à pas unipolaire-programmation mode demi-pas
-TP_FPGA3 programation PL ( logique programmable)
-Support des TP FPGA3 formation instrumentation
+TP_FPGA3 programation PL ( logique programmable) Support des TP FPGA3 formation instrumentation.
+
 L’objectif de ce TP est de développer sa propre conception électronique pour l’intégrer dans un ensemble plus complexe. Intégrer et développer des sous-ensembles électroniques qui pilotent un ou plusieurs moteurs pas à pas en logique numérique, interfacer en langage de haut niveau et communiquer à distance avec pour exemple une Raspberry Pi4 connectée en SSH.
 
 **1.1 Objectif**
