@@ -5,7 +5,8 @@ L’objectif de ce TP est de développer sa propre conception électronique pour
 
 **1.1 Objectif**
 
-Développer des cartes modulaires qui s’adapterons sur un kit FPGA, la CmodA7 pour contrôler un moteur pas à pas. On utilisera le moteur pas à pas et le programme VHDL étudié l’année précédente qui sera à adapté pour la nouvelle cible FPGA mais avec VIVADO comme environnement de programmation, voir description : TP FPGA 2
+Développer des cartes modulaires qui s’adapterons sur un kit FPGA, la CmodA7 pour contrôler un moteur pas à pas. On utilisera le moteur pas à pas et le programme VHDL étudié l’année précédente qui sera à adapté pour la nouvelle cible FPGA mais avec VIVADO comme environnement de programmation, voir description : TP FPGA 2.
+
 Le moteur fonctionne en boucle ouverte non asservi, moteur utilisé : 28BYJ-48 5V moteur unipolaire à 4 enroulements avec réducteur, driver moteur ULN2003 et encodeur PEC11R 24 pas/tours. Le moteur à une réduction de 1/64 soit 360 degrés/64 = 5.625 degré/pas En mode demi-pas qui correspond à 8 états et 4 phases, la réduction finale est de 4096 (64x64). Le moteur aura un pas unitaire angulaire de 5.625/64 = 0,0879 degrés !
 Vitesse max du moteur = 255Hz 
 
@@ -35,4 +36,4 @@ Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les 
 
 # Courbes de vitesses à appliquer au moteur
 
-![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe de vitesse moteur pas a pas.png)
+![ezcv logo](https://github.com/fabzz60/TP_FPGA3/blob/main/courbe_de_vitesse_moteur_pas_a_pas.png)
