@@ -15,6 +15,7 @@ Vitesse max du moteur = 255Hz
   Résistance : 21 ohms 
   Intensité : 25 mA  
   Réduction : 1/64 
+  
   Nombre de pas par tour : 64 (réduction de 4096 en sortie d'axe) 
   Entraxe de fixation : 35 mm 
   Axe : Ø5 mm avec double méplat (épaisseur 3 mm) 
@@ -27,8 +28,10 @@ Vitesse max du moteur = 255Hz
 1.2 Outils et logiciels :
 Le composant numérique principal choisi pour cette carte pour piloter le moteur pas à pas est un FPGA de la famille Xilinx l’Artix 7-35T disposé sur un kit Digilent, le kit CMODA7 35T. 
 https://digilent.com/shop/cmod-a7-35t-breadboardable-artix-7-fpga-module/
+
 La gamme Xilinx à découvrir :
 https://www.xilinx.com/products/silicon-devices/fpga.html
+
 Le code VHDL du TP FPGA 2 est à adapter sur la cible CmodA7 sous VIVADO et les circuits à développer sur ALTIUM designer. La carte électronique sera auto-alimentée par l’USB. Enfin on utilisera un Raspberry pi 4 en démonstration pour tester une communication distante (SSH) si le temps le permet.
 
 
